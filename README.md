@@ -1,10 +1,20 @@
 ## Falaaa, sou o Giovanni Bombardi!!
 
+<div> 
+  
+  <a href="https://www.linkedin.com/in/giovanni-bombardi-0347a1201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 - 🔭 Hoje trabalho com Back-and
 - 🌱 Estou estudando Engenharia de Software
 - 😄 Pronomes: Ele/Dele
 
 ##
+
+
 
 <div style="display: inline_block"><br>
   
@@ -16,8 +26,4 @@
 
 ##
 
-<div> 
-  
-  <a href="https://www.linkedin.com/in/giovanni-bombardi-0347a1201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
