@@ -6,7 +6,7 @@
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aGiovanniBombardi&show_icons=true&theme=radical)
 
 - 🔭 Hoje trabalho com Back-and
 - 🌱 Estou estudando Engenharia de Software
