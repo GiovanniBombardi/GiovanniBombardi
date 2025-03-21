@@ -1,4 +1,15 @@
 ## Falaaa, sou o Giovanni Bombardi!!
+###
+
+<div>
+
+  <a href="https://guithub.com/GiovanniBombardi">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniBombardi&show_icons=true&theme=dracula">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBombardi&hide_progress=true&hide_progress=true">
+
+</div>
+
+###
 
 <div> 
   
