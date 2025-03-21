@@ -1,4 +1,5 @@
 ## Falaaa, sou o Giovanni Bombardi!!
+
 ###
 
 <div>
@@ -20,9 +21,7 @@
 - 🌱 Estou estudando Engenharia de Software
 - 😄 Pronomes: Ele/Dele
 
-##
-
-
+###
 
 <div style="display: inline_block"><br>
   
@@ -32,6 +31,6 @@
 
 </div>
 
-##
+###
 
 
