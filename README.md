@@ -19,7 +19,6 @@
   
 - 🔭 Hoje trabalho com Back-and
 - 🌱 Estou estudando Engenharia de Software
-- 😄 Pronomes: Ele/Dele
 
 ###
 
